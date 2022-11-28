@@ -1,0 +1,21 @@
+fieldset{
+    background-color: darkturquoise;
+    border-width: 5pt;
+    border-style: solid;
+    font-size: 15pt;
+    
+}
+
+legend{
+    text-decoration: underline;
+    background-color: white;
+    border-style: solid;
+    border-color: grey;
+}
+
+.submit{
+    border-radius: 55pt;
+    display: inline;
+    padding: 8pt;
+    background-color: cadetblue;
+}
